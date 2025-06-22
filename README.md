@@ -1,52 +1,53 @@
-# Apple Watch Section Clone (Tailwind CSS)
+# Notes App (Vanilla JavaScript)
 
 ## Overview
 
-This is a UI clone of the Apple Watch section from the Digikala product page, built entirely with HTML and Tailwind CSS.  
-The goal of this mini-project was to practice responsive design, layout techniques, and modern utility-first CSS using Tailwind.
+This is a simple yet functional Note Taking App built with HTML, CSS, and JavaScript.  
+Users can create, delete, and store notes in the browser using LocalStorage.  
+The main goal of this project was to practice core JavaScript concepts like DOM manipulation, events, and persistent data storage.
 
 ---
 
 ## Features
 
-- Clean and responsive layout  
-- Modern and pixel-perfect UI  
-- Optimized for desktop and mobile  
-- Fast-loading and lightweight  
-- Inspired by real e-commerce product section (Digikala)
+- Add, delete, and view notes  
+- Data saved using localStorage (remains after refresh)  
+- Clean and simple UI  
+- Responsive design for all devices  
+- No frameworks, only vanilla JS
 
 ---
 
 ## Technologies Used
 
-- HTML5  
-- Tailwind CSS  
-- Responsive Web Design  
-- Flexbox / Grid
+- HTML  
+- CSS  
+- JavaScript (Vanilla JS)  
+- Browser LocalStorage
 
 ---
 
 ## How to Run Locally
 
 `bash
-git clone https://github.com/mehranazaran/apple-watch-tailwind-clone.git
-cd apple-watch-tailwind-clone
+git clone https://github.com/mehranazaran/JavaScript-Work-Sample.git
+cd JavaScript-Work-Sample
 
-Then open index.html in your browser (you can use Live Server in VS Code).
+Then open index.html in your browser (or use Live Server in VS Code).
 
 
 ---
 
 Demo
 
-[Live Demo Link] <!-- Add your Netlify / GitHub Pages link here -->
+[Live Demo Link] <!-- Add your GitHub Pages or Netlify link here -->
 
 
 ---
 
 License
 
-This project is for educational and portfolio purposes only. All content and assets are used for demo practice and are not affiliated with Digikala.
+This project is for educational and practice purposes only. No external data or backend used.
 
 
 ---
@@ -61,27 +62,27 @@ mehranchekaniazaran@gmail.com
 
 ---
 
-بازطراحی بخش ساعت اپل (با Tailwind CSS)
+اپلیکیشن یادداشت (با جاوااسکریپت خام)
 
 معرفی
 
-این پروژه یک بازطراحی رابط کاربری از بخش ساعت اپل در سایت دیجی‌کالا است که با استفاده از HTML و Tailwind CSS پیاده‌سازی شده است.
-هدف این پروژه تمرین طراحی ریسپانسیو و مهارت در استفاده از کلاس‌های Utility در Tailwind بوده است.
+این پروژه یک اپلیکیشن ساده یادداشت‌برداری است که با استفاده از HTML، CSS و JavaScript خام ساخته شده است.
+کاربر می‌تواند یادداشت‌های خود را بنویسد، حذف کند و این داده‌ها در مرورگر ذخیره می‌شوند (با استفاده از localStorage).
 
 
 ---
 
 ویژگی‌ها
 
-طراحی مدرن و ریسپانسیو
+افزودن، نمایش و حذف یادداشت
 
-ساختار دقیق و مشابه دیجی‌کالا
+ذخیره‌سازی داده‌ها در مرورگر (حتی پس از رفرش)
 
-مناسب برای دسکتاپ و موبایل
+رابط کاربری تمیز و ساده
 
-لود سریع و حجم سبک
+طراحی ریسپانسیو برای موبایل و دسکتاپ
 
-تمرین UI از دنیای واقعی (E-commerce)
+بدون استفاده از فریم‌ورک؛ فقط JS خالص
 
 
 
@@ -89,11 +90,13 @@ mehranchekaniazaran@gmail.com
 
 تکنولوژی‌های استفاده‌شده
 
-HTML5
+HTML
 
-Tailwind CSS
+CSS
 
-طراحی ریسپانسیو با Flexbox / Grid
+JavaScript خام
+
+LocalStorage مرورگر
 
 
 
@@ -101,25 +104,24 @@ Tailwind CSS
 
 نحوه اجرا در سیستم شخصی
 
-git clone https://github.com/mehranazaran/apple-watch-tailwind-clone.git
-cd apple-watch-tailwind-clone
+git clone https://github.com/mehranazaran/JavaScript-Work-Sample.git
+cd JavaScript-Work-Sample
 
-سپس فایل index.html را در مرورگر باز کنید
-(می‌توانید از افزونه Live Server در VS Code استفاده کنید)
+سپس فایل index.html را با مرورگر باز کنید (یا با Live Server در VS Code اجرا کنید)
 
 
 ---
 
 دمو
 
-[لینک نسخه آنلاین پروژه] <!-- وقتی آماده شد، اینجا وارد کن -->
+[لینک نسخه آنلاین پروژه] <!-- وقتی آماده شد، اینجا قرار بده -->
 
 
 ---
 
 مجوز
 
-این پروژه صرفاً برای اهداف آموزشی و نمونه‌کار طراحی شده است. طراحی از سایت دیجی‌کالا الهام گرفته شده و هیچ‌گونه وابستگی رسمی ندارد.
+این پروژه صرفاً برای اهداف آموزشی و تمرینی ساخته شده است. از هیچ داده یا سرور خارجی استفاده نشده است.
 
 
 ---
@@ -127,3 +129,5 @@ cd apple-watch-tailwind-clone
 تماس
 
 mehranchekaniazaran@gmail.com
+
+---
