@@ -7,6 +7,10 @@ Users can create, delete, and store notes in the browser using LocalStorage.
 The main goal of this project was to practice core JavaScript concepts like DOM manipulation, events, and persistent data storage.
 
 ---
+## 📸 Preview
+
+<img src="Screenshot%20(34).png" alt="App Screenshot" width="100%" style="border-radius: 12px;" />
+---
 
 ## Features
 
